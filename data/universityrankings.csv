@@ -1,0 +1,101 @@
+Rank,Name,State,AdmitRate,GraduationRate,TotalCost,AvgDebt
+1,"Princeton University",NJ,0.07,0.9,61140,8577
+2,"Duke University",NC,0.11,0.86,66963,19104
+3,"Harvard University",MA,0.06,0.86,64565,16723
+4,"Vanderbilt University",TN,0.12,0.87,62598,21506
+5,"Yale University",CT,0.07,0.88,68230,15521
+6,"Rice University",TX,0.16,0.81,58448,25528
+7,"California Institute of Technology",CA,0.09,0.85,63000,20677
+8,"Stanford University",CA,0.05,0.75,63996,21238
+9,"Brown University",RI,0.09,0.83,66106,22197
+10,"Massachusetts Institute of Technology",MA,0.08,0.82,63662,23485
+11,"Dartmouth College",NH,0.11,0.86,67839,19135
+12,"Columbia University",NY,0.06,0.89,70048,25167
+13,"Emory University",GA,0.24,0.83,62664,26983
+14,"Cornell University",NY,0.15,0.86,65813,24394
+15,"University of Notre Dame",IN,0.2,0.91,65093,27237
+16,"University of Pennsylvania",PA,0.1,0.87,67280,26157
+17,"Georgetown University",DC,0.17,0.9,66709,23067
+18,"University of Chicago",IL,0.08,0.86,70542,21291
+19,"Johns Hopkins University",MD,0.13,0.88,67106,24702
+20,"Boston College",MA,0.29,0.89,66364,20849
+21,"Washington University in St. Louis",MO,0.17,0.86,66346,24243
+22,"Northwestern University",IL,0.13,0.82,67964,23051
+23,"Tufts University",MA,0.16,0.88,68200,26185
+24,"Brigham Young University",UT,0.48,0.31,18860,15720
+25,"Wake Forest University",NC,0.29,0.82,65456,36546
+26,"Trinity University",TX,0.48,0.72,53314,36626
+27,"Lehigh University",PA,0.3,0.74,62010,34940
+28,"University of Southern California",CA,0.18,0.77,67831,27925
+29,"Clark University",MA,0.55,0.77,52400,28048
+30,"University of Rochester",NY,0.32,0.74,66342,30873
+31,"Bentley University",MA,0.42,0.83,62150,29547
+32,"Villanova University",PA,0.48,0.87,63473,33588
+33,"Santa Clara University",CA,0.49,0.77,62868,27407
+34,"Creighton University",NE,0.7,0.72,49406,33792
+35,"Brandeis University",MA,0.34,0.8,66925,30850
+36,"University of Miami",FL,0.38,0.68,61244,19000
+37,"Yeshiva University",NY,0.8,0.6,54029,22364
+38,"Gonzaga University",WA,0.73,0.73,51980,29459
+39,"Drake University",IA,0.67,0.68,46156,30742
+40,"Samford University",AL,0.93,0.59,40232,23772
+41,"George Washington University",DC,0.46,0.76,65725,33081
+42,"New York University",NY,0.33,0.81,67710,30480
+43,"Tulane University",LA,0.3,0.72,66054,32040
+44,"Elon University",NC,0.57,0.79,45499,31622
+45,"Franciscan University of Steubenville",OH,0.79,0.7,35180,30879
+46,"Carnegie Mellon University",PA,0.24,0.72,67980,31444
+47,"Case Western Reserve University",OH,0.36,0.63,61504,28562
+48,"Maryville University of Saint Louis",MO,0.72,0.56,38046,32077
+49,"Drury University",MO,0.65,0.45,34885,26451
+50,"Boston University",MA,0.33,0.8,66110,40365
+51,"Mercer University",GA,0.67,0.48,47436,26321
+52,"Liberty University",VA,0.21,0.36,34026,21067
+53,"Pepperdine University",CA,0.38,0.76,65852,34820
+54,"Illinois Institute of Technology",IL,0.53,0.38,58076,30569
+55,"American University",DC,0.35,0.76,60179,32394
+56,"Saint Louis University",MO,0.63,0.64,52566,33487
+57,"Rockhurst University",MO,0.74,0.64,46710,25621
+58,"University of Portland",OR,0.62,0.71,55272,28953
+59,"University of Dayton",OH,0.58,0.62,54620,35740
+60,"Stevens Institute of Technology",NJ,0.44,0.38,63538,26722
+61,"Fordham University",NY,0.48,0.75,66930,25069
+62,"Emerson College",MA,0.49,0.78,60196,22543
+63,"University of Denver",CO,0.73,0.67,59643,29947
+64,"Baylor University",TX,0.44,0.54,55344,40721
+65,"Oklahoma City University",OK,0.7,0.49,42040,28464
+66,"Rensselaer Polytechnic Institute",NY,0.42,0.63,68244,31000
+67,"Butler University",IN,0.7,0.53,52622,35520
+68,"University of St. Thomas",MN,0.84,0.6,50354,40403
+69,"University of Evansville",IN,0.7,0.58,46856,31013
+70,"Geneva College",PA,0.73,0.52,36350,32943
+71,"Loyola Marymount University",CA,0.51,0.7,60386,30487
+72,"Marquette University",WI,0.74,0.58,50918,37048
+73,"Marist College",NY,0.45,0.68,50860,34865
+74,"University of Tulsa",OK,0.44,0.52,53825,37008
+75,"Whitworth University",WA,0.84,0.65,52572,29297
+76,"Howard University",DC,0.49,0.4,39999,32071
+77,"Union University",TN,0.69,0.55,42170,31784
+78,"LeTourneau University",TX,0.45,0.4,39800,39167
+79,"Southern Methodist University",TX,0.49,0.67,67283,30826
+80,"Rollins College",FL,0.6,0.64,62220,29455
+81,"Bradley University",IL,0.66,0.53,43330,28093
+82,"Niagara University",NY,0.63,0.56,44700,30830
+83,"Syracuse University",NY,0.48,0.68,61679,36500
+84,"Chapman University",CA,0.48,0.65,64638,27857
+85,"Rochester Institute of Technology",NY,0.57,0.34,51892,38198
+86,"Belmont University",TN,0.8,0.57,44120,28477
+87,"Loyola University Maryland",MD,0.61,0.76,61715,34375
+88,"Bethel University",MN,0.95,0.62,46456,34803
+89,"University of San Diego",CA,0.52,0.66,60242,28598
+90,"St. Bonaventure University",NY,0.66,0.54,44604,35627
+91,"Seattle Pacific University",WA,0.82,0.53,51200,28149
+92,"Lipscomb University",TN,0.61,0.4,42796,30658
+93,"Providence College",RI,0.57,0.81,61700,37740
+94,"Fairfield University",CT,0.65,0.78,61010,38780
+95,"Saint Michael's College",VT,0.76,0.69,54555,36625
+96,"Xavier University",OH,0.72,0.66,48880,32131
+97,"Centenary College of Louisiana",LA,0.67,0.46,49610,25770
+98,"Clarkson University",NY,0.68,0.53,61808,29000
+99,"St. John Fisher College",NY,0.62,0.61,44720,33870
+100,"Ithaca College",NY,0.67,0.69,57966,39771
